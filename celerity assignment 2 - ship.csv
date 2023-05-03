@@ -1,0 +1,192 @@
+ORIGIN OF SHIPMENT,DESTINATION OF SHIPMENT,CONTAINER DETAILS,SHIPPER NAME ,FREIGHT RATE in INR,FREIGHT RATE in USD,Destination Detention Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,COGO ASSURED,"₹1,53,104","$1,591",7 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,OOCL,"₹1,46,970","$1,545",4 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,ONE LINE,"₹1,64,130","$1,645",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,COSCO,"₹1,67,846","$1,792",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,HYUNDAI,"₹1,85,576","$1,957",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,MSC,"₹1,92,593","$1,983",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,WAN HAI,"₹2,05,394","$2,189",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,HAPAG LLOYD,"₹2,26,587","$2,452",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,EVERGREEN,"₹2,26,588","$2,498",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,CMA CGM,"₹2,33,901","$2,515",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Los Angeles/Long Beach,40FT,YML,"₹2,31,457","$2,549",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,COGO ASSURED,"₹1,76,961","$1,875",5 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,OOCL,"₹1,77,349","$1,906",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,ONE LINE,"₹1,90,158","$1,954",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,COSCO,"₹1,83,870","$1,983",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,CMA CGM,"₹2,04,164","$2,163",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,MSC,"₹2,74,541","$3,007",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,HAPAG LLOYD,"₹2,81,540","$3,103",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,WAN HAI,"₹2,83,648","$3,116",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,ZIM,"₹2,98,097","$3,216",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,EVERGREEN,"₹2,97,668","$3,219",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,YML,"₹3,09,711","$3,476",3 Days
+JNPT (Jawaharlal Nehru Port Trust),New York/New Jersey,40FT,HYUNDAI,"₹4,36,446","$4,930",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Savannah,40FT,COGO ASSURED,"₹2,22,696","$2,416",7 Days
+JNPT (Jawaharlal Nehru Port Trust),Savannah,40FT,HAPAG LLOYD,"₹4,87,350","$5,541",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Savannah,40FT,CMA CGM,"₹4,89,794","$5,547",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Savannah,40FT,MSC,"₹4,88,960","$5,547",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Savannah,40FT,OOCL,"₹4,86,891","$5,572",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Houston,40FT,COGO ASSURED,"₹2,04,089","$2,196",5 Days
+JNPT (Jawaharlal Nehru Port Trust),Houston,40FT,HAPAG LLOYD,"₹2,07,545","$2,227",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Houston,40FT,COSCO,"₹2,36,040","$2,601",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Houston,40FT,CMA CGM,"₹2,91,114","$3,193",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Houston,40FT,MSC,"₹2,93,323","$3,229",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Houston,40FT,ZIM,"₹3,21,313","$3,491",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Houston,40FT,EVERGREEN,"₹4,02,008","$4,455",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,COGO ASSURED,"₹1,83,482","$1,952",7 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,OOCL,"₹1,77,349","$1,906",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,COSCO,"₹1,83,870","$1,983",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,CMA CGM,"₹2,04,164","$2,163",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,ONE LINE,"₹2,14,330","$2,240",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,MSC,"₹2,74,541","$3,007",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,WAN HAI,"₹2,83,648","$3,116",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,EVERGREEN,"₹2,97,668","$3,219",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,YML,"₹3,09,711","$3,476",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,ZIM,"₹3,21,313","$3,491",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,HAPAG LLOYD,"₹3,60,751","$4,042",3 Days
+JNPT (Jawaharlal Nehru Port Trust),Charleston,40FT,HYUNDAI,"₹4,36,446","$4,930",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,COGO ASSURED,"₹1,61,052","$1,643",10 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,OOCL,"₹1,49,861","$1,545",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,ONE LINE,"₹1,59,367","$1,645",4 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,COSCO,"₹1,58,886","$1,674",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,HYUNDAI,"₹1,83,876","$1,957",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,WAN HAI,"₹2,06,359","$2,189",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,CMA CGM,"₹2,18,358","$2,344",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,EVERGREEN,"₹2,36,222","$2,498",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,YML,"₹2,31,207","$2,549",3 Days
+Mundra Port Trust (MPT),Los Angeles/Long Beach,40FT,HAPAG LLOYD,"₹2,50,085","$2,734",7 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,COGO ASSURED,"₹1,80,616","$1,875",5 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,OOCL,"₹1,80,293","$1,906",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,COSCO,"₹1,84,970","$1,983",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,CMA CGM,"₹2,03,054","$2,163",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,ONE LINE,"₹2,09,624","$2,240",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,ZIM,"₹2,43,444","$2,609",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,MSC,"₹2,48,702","$2,719",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,HAPAG LLOYD,"₹2,64,258","$2,902",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,HYUNDAI,"₹2,66,826","$2,940",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,WAN HAI,"₹2,75,919","$3,013",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,EVERGREEN,"₹2,97,087","$3,219",3 Days
+Mundra Port Trust (MPT),New York/New Jersey,40FT,YML,"₹3,09,461","$3,476",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,COGO ASSURED,"₹1,80,616","$1,875",5 Days
+Mundra Port Trust (MPT),Savannah,40FT,OOCL,"₹1,80,293","$1,906",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,COSCO,"₹1,84,970","$1,983",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,CMA CGM,"₹2,03,054","$2,163",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,ONE LINE,"₹2,09,624","$2,240",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,MSC,"₹2,46,529","$2,693",14 Days
+Mundra Port Trust (MPT),Savannah,40FT,WAN HAI,"₹2,75,919","$3,013",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,EVERGREEN,"₹2,97,087","$3,219",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,YML,"₹3,09,461","$3,476",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,HAPAG LLOYD,"₹3,24,514","$3,615",3 Days
+Mundra Port Trust (MPT),Savannah,40FT,HYUNDAI,"₹3,53,515","$3,967",3 Days
+Mundra Port Trust (MPT),Houston,40FT,COGO ASSURED,"₹2,07,744","$2,196",10 Days
+Mundra Port Trust (MPT),Houston,40FT,HAPAG LLOYD,"₹2,07,305","$2,227",3 Days
+Mundra Port Trust (MPT),Houston,40FT,COSCO,"₹2,37,140","$2,601",3 Days
+Mundra Port Trust (MPT),Houston,40FT,CMA CGM,"₹2,86,091","$3,147",3 Days
+Mundra Port Trust (MPT),Houston,40FT,MSC,"₹2,91,743","$3,229",3 Days
+Mundra Port Trust (MPT),Houston,40FT,EVERGREEN,"₹4,01,427","$4,455",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,COGO ASSURED,"₹1,80,616","$1,875",7 Days
+Mundra Port Trust (MPT),Charleston,40FT,OOCL,"₹1,80,293","$1,906",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,COSCO,"₹1,84,970","$1,983",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,CMA CGM,"₹2,03,054","$2,163",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,ONE LINE,"₹2,09,624","$2,240",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,WAN HAI,"₹2,75,919","$3,013",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,EVERGREEN,"₹2,97,087","$3,219",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,YML,"₹3,09,461","$3,476",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,HAPAG LLOYD,"₹3,24,514","$3,615",3 Days
+Mundra Port Trust (MPT),Charleston,40FT,HYUNDAI,"₹4,34,813","$4,930",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,COGO ASSURED,"₹1,43,953","$1,540",7 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,WAN HAI,"₹1,44,643","$1,571",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,COSCO,"₹1,81,723","$2,024",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,OOCL,"₹1,90,839","$2,112",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,ONE LINE,"₹2,01,872","$2,240",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,CMA CGM,"₹2,13,099","$2,350",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,HYUNDAI,"₹2,22,025","$2,472",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,EVERGREEN,"₹2,32,403","$2,498",3 Days
+Chennai Port Trust (CPT),Los Angeles/Long Beach,40FT,YML,"₹2,27,457","$2,549",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,COGO ASSURED,"₹1,83,149","$2,003",5 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,WAN HAI,"₹2,00,802","$2,235",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,COSCO,"₹2,22,241","$2,503",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,MSC,"₹2,31,688","$2,565",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,OOCL,"₹2,56,150","$2,884",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,ONE LINE,"₹2,66,752","$3,008",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,HAPAG LLOYD,"₹3,09,819","$3,502",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,CMA CGM,"₹3,12,169","$3,523",3 Days
+Chennai Port Trust (CPT),New York/New Jersey,40FT,HYUNDAI,"₹5,29,167","$6,108",3 Days
+Chennai Port Trust (CPT),Savannah,40FT,COGO ASSURED,"₹1,83,149","$2,003",5 Days
+Chennai Port Trust (CPT),Savannah,40FT,WAN HAI,"₹2,00,802","$2,235",3 Days
+Chennai Port Trust (CPT),Savannah,40FT,COSCO,"₹2,22,241","$2,503",3 Days
+Chennai Port Trust (CPT),Savannah,40FT,MSC,"₹2,31,688","$2,565",3 Days
+Chennai Port Trust (CPT),Savannah,40FT,OOCL,"₹2,56,150","$2,884",3 Days
+Chennai Port Trust (CPT),Savannah,40FT,EVERGREEN,"₹3,12,950","$3,451",3 Days
+Chennai Port Trust (CPT),Savannah,40FT,YML,"₹3,17,573","$3,615",3 Days
+Chennai Port Trust (CPT),Houston,40FT,COGO ASSURED,"₹2,56,216","$2,869",5 Days
+Chennai Port Trust (CPT),Houston,40FT,CMA,"₹3,61,750","$4,110",3 Days
+Chennai Port Trust (CPT),Houston,40FT,EVERGREEN,"₹4,24,290","$4,769",3 Days
+Chennai Port Trust (CPT),Houston,40FT,HAPAG LLOYD,"₹4,27,249","$4,893",3 Days
+Chennai Port Trust (CPT),Charleston,40FT,COGO ASSURED,"₹1,83,149","$2,003",7 Days
+Chennai Port Trust (CPT),Charleston,40FT,WAN HAI,"₹2,00,802","$2,235",3 Days
+Chennai Port Trust (CPT),Charleston,40FT,MSC,"₹2,31,688","$2,565",3 Days
+Chennai Port Trust (CPT),Charleston,40FT,OOCL,"₹2,56,150","$2,884",3 Days
+Chennai Port Trust (CPT),Charleston,40FT,ONE LINE,"₹2,66,752","$3,008",3 Days
+Chennai Port Trust (CPT),Charleston,40FT,EVERGREEN,"₹3,12,950","$3,451",3 Days
+Kolkata Port Trust (KPT),Los Angeles/Long Beach,40FT,ONE LINE,"₹2,28,988","$2,462",3 Days
+Kolkata Port Trust (KPT),Los Angeles/Long Beach,40FT,HYUNDAI,"₹2,27,014","$2,472",3 Days
+Kolkata Port Trust (KPT),Los Angeles/Long Beach,40FT,YML,"₹2,48,416","$2,730",3 Days
+Kolkata Port Trust (KPT),Los Angeles/Long Beach,40FT,CMA CGM,"₹2,53,780","$2,760",3 Days
+Kolkata Port Trust (KPT),Los Angeles/Long Beach,40FT,WAN HAI,"₹2,61,478","$2,894",3 Days
+Kolkata Port Trust (KPT),Los Angeles/Long Beach,40FT,COSCO,"₹2,81,157","$3,121",3 Days
+Kolkata Port Trust (KPT),Los Angeles/Long Beach,40FT,HAPAG LLOYD,"₹3,26,727","$3,636",7 Days
+Kolkata Port Trust (KPT),New York/New Jersey,40FT,ONE LINE,"₹2,03,501","$2,160",14 Days
+Kolkata Port Trust (KPT),New York/New Jersey,40FT,ZIM,"₹2,13,742","$2,266",3 Days
+Kolkata Port Trust (KPT),New York/New Jersey,40FT,CMA CGM,"₹3,27,717","$3,636",3 Days
+Kolkata Port Trust (KPT),New York/New Jersey,40FT,YML,"₹3,51,059","$3,945",3 Days
+Kolkata Port Trust (KPT),New York/New Jersey,40FT,HAPAG LLOYD,"₹3,66,740","$4,110",3 Days
+Kolkata Port Trust (KPT),New York/New Jersey,40FT,HYUNDAI,"₹5,34,071","$6,108",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,ONE LINE,"₹2,03,501","$2,160",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,ZIM,"₹2,08,523","$2,204",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,MSC,"₹2,38,138","$2,565",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,COSCO,"₹3,08,992","$3,451",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,EVERGREEN,"₹3,22,518","$3,564",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,CMA CGM,"₹3,27,717","$3,636",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,HAPAG LLOYD,"₹3,66,740","$4,110",3 Days
+Kolkata Port Trust (KPT),Savannah,40FT,HYUNDAI,"₹5,34,071","$6,108",3 Days
+Kolkata Port Trust (KPT),Houston,40FT,ZIM,"₹2,87,679","$3,142",3 Days
+Kolkata Port Trust (KPT),Houston,40FT,CMA CGM,"₹4,17,312","$4,697",3 Days
+Kolkata Port Trust (KPT),Houston,40FT,HAPAG LLOYD,"₹5,02,437","$5,717",3 Days
+Kolkata Port Trust (KPT),Charleston,40FT,ONE LINE,"₹2,03,501","$2,160",3 Days
+Kolkata Port Trust (KPT),Charleston,40FT,EVERGREEN,"₹3,22,518","$3,564",3 Days
+Kolkata Port Trust (KPT),Charleston,40FT,CMA CGM,"₹3,27,717","$3,636",3 Days
+Kolkata Port Trust (KPT),Charleston,40FT,YML,"₹3,51,059","$3,945",3 Days
+Kolkata Port Trust (KPT),Charleston,40FT,HAPAG LLOYD,"₹3,66,740","$4,110",3 Days
+Kolkata Port Trust (KPT),Charleston,40FT,HYUNDAI,"₹5,34,071","$6,108",3 Days
+Visakhapatnam Port Trust (VMPT),Los Angeles/Long Beach,40FT,COGO ASSURED,"₹1,80,868","$1,952",7 Days
+Visakhapatnam Port Trust (VMPT),Los Angeles/Long Beach,40FT,CMA CGM,"₹2,19,435","$2,400",3 Days
+Visakhapatnam Port Trust (VMPT),Los Angeles/Long Beach,40FT,HYUNDAI,"₹2,23,614","$2,472",3 Days
+Visakhapatnam Port Trust (VMPT),Los Angeles/Long Beach,40FT,WAN HAI,"₹2,32,937","$2,565",3 Days
+Visakhapatnam Port Trust (VMPT),Los Angeles/Long Beach,40FT,EVERGREEN,"₹2,57,279","$2,791",3 Days
+Visakhapatnam Port Trust (VMPT),Los Angeles/Long Beach,40FT,HYUNDAI,"₹3,81,057","$4,336",3 Days
+Visakhapatnam Port Trust (VMPT),New York/New Jersey,40FT,COGO ASSURED,"₹2,02,614","$2,209",7 Days
+Visakhapatnam Port Trust (VMPT),New York/New Jersey,40FT,COSCO,"₹2,21,486","$2,462",3 Days
+Visakhapatnam Port Trust (VMPT),New York/New Jersey,40FT,HAPAG LLOYD,"₹3,12,319","$3,502",3 Days
+Visakhapatnam Port Trust (VMPT),New York/New Jersey,40FT,CMA CGM,"₹3,14,249","$3,523",3 Days
+Visakhapatnam Port Trust (VMPT),New York/New Jersey,40FT,YML,"₹3,19,073","$3,615",3 Days
+Visakhapatnam Port Trust (VMPT),New York/New Jersey,40FT,HYUNDAI,"₹5,30,671","$6,108",3 Days
+Visakhapatnam Port Trust (VMPT),Savannah,40FT,COGO ASSURED,"₹2,02,614","$2,209",7 Days
+Visakhapatnam Port Trust (VMPT),Savannah,40FT,COSCO,"₹2,21,486","$2,462",3 Days
+Visakhapatnam Port Trust (VMPT),Savannah,40FT,WAN HAI,"₹2,79,909","$3,121",3 Days
+Visakhapatnam Port Trust (VMPT),Savannah,40FT,HAPAG LLOYD,"₹3,12,319","$3,502",3 Days
+Visakhapatnam Port Trust (VMPT),Savannah,40FT,CMA CGM,"₹3,14,249","$3,523",3 Days
+Visakhapatnam Port Trust (VMPT),Savannah,40FT,HYUNDAI,"₹5,30,671","$6,108",3 Days
+Visakhapatnam Port Trust (VMPT),Savannah,40FT,ONE LINE,"₹5,58,310","$6,427",3 Days
+Visakhapatnam Port Trust (VMPT),Houston,40FT,HAPAG LLOYD,"₹4,84,549","$5,541",3 Days
+Visakhapatnam Port Trust (VMPT),Houston,40FT,CMA CGM,"₹4,85,174","$5,547",3 Days
+Visakhapatnam Port Trust (VMPT),Houston,40FT,MSC,"₹4,86,929","$5,557",3 Days
+Visakhapatnam Port Trust (VMPT),Houston,40FT,OOCL,"₹4,87,456","$5,598",3 Days
+Visakhapatnam Port Trust (VMPT),Charleston,40FT,COGO ASSURED,"₹2,02,614","$2,209",7 Days
+Visakhapatnam Port Trust (VMPT),Charleston,40FT,WAN HAI,"₹2,79,909","$3,121",3 Days
+Visakhapatnam Port Trust (VMPT),Charleston,40FT,HAPAG LLOYD,"₹3,12,319","$3,502",3 Days
+Visakhapatnam Port Trust (VMPT),Charleston,40FT,CMA CGM,"₹3,14,249","$3,523",3 Days
+Visakhapatnam Port Trust (VMPT),Charleston,40FT,EVERGREEN,"₹3,22,518","$3,564",3 Days
+Visakhapatnam Port Trust (VMPT),Charleston,40FT,HYUNDAI,"₹5,30,671","$6,108",3 Days
+Visakhapatnam Port Trust (VMPT),Charleston,40FT,ONE LINE,"₹5,58,310","$6,427",3 Days

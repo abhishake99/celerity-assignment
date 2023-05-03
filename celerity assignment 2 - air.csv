@@ -1,0 +1,76 @@
+FROM,TO,TRANSIT TIME,AIRWAYS,Freight per kg,Operation Type
+Chhatrapati Shivaji Maharaj International Airport (BOM),Los Angeles International Airport (LAX),98 hours 37 minutes,QATAR AIRWAYS,"₹6,459",passenger
+Chhatrapati Shivaji Maharaj International Airport (BOM),Los Angeles International Airport (LAX),98 hours 37 minutes,EMIRATES,"₹6,512",freighter
+Chhatrapati Shivaji Maharaj International Airport (BOM),Chicago O'Hare International Airport (ORD),98 hours 37 minutes,ETIHAD AIRWAYS,"₹6,307",freighter
+Chhatrapati Shivaji Maharaj International Airport (BOM),Chicago O'Hare International Airport (ORD),98 hours 37 minutes,QATAR AIRWAYS,"₹6,459",passenger
+Chhatrapati Shivaji Maharaj International Airport (BOM),Chicago O'Hare International Airport (ORD),98 hours 37 minutes,EMIRATES,"₹6,511",freighter
+Chhatrapati Shivaji Maharaj International Airport (BOM),Dallas/Fort Worth International Airport (DFW),98 hours 37 minutes,QATAR AIRWAYS,"₹6,459",freighter
+Chhatrapati Shivaji Maharaj International Airport (BOM),Dallas/Fort Worth International Airport (DFW),98 hours 37 minutes,EMIRATES,"₹6,511",passenger
+Chhatrapati Shivaji Maharaj International Airport (BOM),John F. Kennedy International Airport (JFK),87 hours 25 minutes,AIR INDIA,"₹3,606",passenger
+Chhatrapati Shivaji Maharaj International Airport (BOM),John F. Kennedy International Airport (JFK),87 hours 25 minutes,ETIHAD AIRWAYS,"₹6,156",passenger
+Chhatrapati Shivaji Maharaj International Airport (BOM),John F. Kennedy International Airport (JFK),87 hours 25 minutes,QATAR AIRWAYS,"₹6,459",freighter
+Chhatrapati Shivaji Maharaj International Airport (BOM),John F. Kennedy International Airport (JFK),87 hours 25 minutes,EMIRATES,"₹6,512",passenger
+Chhatrapati Shivaji Maharaj International Airport (BOM),Atlanta Hartsfield-Jackson International Airport (ATL),4 hours,QATAR AIRWAYS,"₹6,459",freighter
+Chhatrapati Shivaji Maharaj International Airport (BOM),Atlanta Hartsfield-Jackson International Airport (ATL),4 hours,TURKISH AIRLINES,"₹7,189",freighter
+Chhatrapati Shivaji Maharaj International Airport (BOM),Atlanta Hartsfield-Jackson International Airport (ATL),4 hours,EMIRATES,"10,471",passenger
+Indira Gandhi International Airport (DEL),Los Angeles International Airport (LAX),112 hours 12 minutes,EMIRATES,"₹10,645",passenger
+Indira Gandhi International Airport (DEL),Chicago O'Hare International Airport (ORD),135 hours 35 minutes,QATAR AIRWAYS,"2,476",passenger
+Indira Gandhi International Airport (DEL),Chicago O'Hare International Airport (ORD),100 Hrs,AIR INDIA,"2,562",passenger
+Indira Gandhi International Airport (DEL),Chicago O'Hare International Airport (ORD),100 hrs,VIRGIN ATLANTIC,"2,648",passenger
+Indira Gandhi International Airport (DEL),Dallas/Fort Worth International Airport (DFW),98 hours 37 minutes,QATAR AIRWAYS,"2,562",passenger
+Indira Gandhi International Airport (DEL),Dallas/Fort Worth International Airport (DFW),98 hours 37 minutes,UNITED AIRLINES,"3,079",passenger
+Indira Gandhi International Airport (DEL),Dallas/Fort Worth International Airport (DFW),98 hours 37 minutes,KLM,"3,596",passenger
+Indira Gandhi International Airport (DEL),John F. Kennedy International Airport (JFK),89 hours 57 minutes,AIR INDIA,"4,007",passenger
+Indira Gandhi International Airport (DEL),Atlanta Hartsfield-Jackson International Airport (ATL),134 hours 35 minutes,QATAR AIRWAYS,"2,239",passenger
+Indira Gandhi International Airport (DEL),Atlanta Hartsfield-Jackson International Airport (ATL),114 hours 17 minutes,VIRGIN ATLANTIC,"2,561",passenger
+Indira Gandhi International Airport (DEL),Atlanta Hartsfield-Jackson International Airport (ATL),114 hours 17 minutes,KLM,"3,594",passenger
+Chennai International Airport (MAA),Los Angeles International Airport (LAX), 98 hours 37 minutes,BRITISH AIRWAYS,"₹6,371",passenger
+Chennai International Airport (MAA),Los Angeles International Airport (LAX), 98 hours 37 minutes,EMIRATES,"₹6,512",passenger
+Chennai International Airport (MAA),Los Angeles International Airport (LAX), 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",passenger
+Chennai International Airport (MAA),Chicago O'Hare International Airport (ORD), 98 hours 37 minutes,BRITISH AIRWAYS,"₹6,371",freighter
+Chennai International Airport (MAA),Chicago O'Hare International Airport (ORD), 98 hours 37 minutes,EMIRATES,"₹6,511",freighter
+Chennai International Airport (MAA),Chicago O'Hare International Airport (ORD), 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",passenger
+Chennai International Airport (MAA),Chicago O'Hare International Airport (ORD), 98 hours 37 minutes,ETIHAD AIRWAYS,"₹8,069",passenger
+Chennai International Airport (MAA),Dallas/Fort Worth International Airport (DFW), 98 hours 37 minutes,BRITISH AIRWAYS,"₹6,371",passenger
+Chennai International Airport (MAA),Dallas/Fort Worth International Airport (DFW), 98 hours 37 minutes,EMIRATES,"₹6,510",passenger
+Chennai International Airport (MAA),Dallas/Fort Worth International Airport (DFW), 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",freighter
+Chennai International Airport (MAA),John F. Kennedy International Airport (JFK), 98 hours 37 minutes,ETIHAD AIRWAYS,"₹8,069",freighter
+Chennai International Airport (MAA),John F. Kennedy International Airport (JFK), 98 hours 37 minutes,BRITISH AIRWAYS,"₹6,371",passenger
+Chennai International Airport (MAA),John F. Kennedy International Airport (JFK), 98 hours 37 minutes,EMIRATES,"₹6,512",passenger
+Chennai International Airport (MAA),John F. Kennedy International Airport (JFK), 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",passenger
+Chennai International Airport (MAA),Atlanta Hartsfield-Jackson International Airport (ATL), 98 hours 37 minutes,BRITISH AIRWAYS,"₹6,972",passenger
+Chennai International Airport (MAA),Atlanta Hartsfield-Jackson International Airport (ATL), 98 hours 37 minutes,EMIRATES,"₹10,471",passenger
+Chennai International Airport (MAA),Atlanta Hartsfield-Jackson International Airport (ATL), 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",passenger
+Kempegowda International Airport Bengaluru (BLR),Atlanta Hartsfield-Jackson International Airport, 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",freighter
+Kempegowda International Airport Bengaluru (BLR),Atlanta Hartsfield-Jackson International Airport, 98 hours 37 minutes,AIR CANADA,"₹10,011",passenger
+Kempegowda International Airport Bengaluru (BLR),Atlanta Hartsfield-Jackson International Airport, 98 hours 37 minutes,LUFTHANSA,"₹9,511",freighter
+Kempegowda International Airport Bengaluru (BLR),Atlanta Hartsfield-Jackson International Airport, 98 hours 37 minutes,AIR INDIA,"₹3,606",freighter
+Kempegowda International Airport Bengaluru (BLR),Chicago O'Hare International Airport, 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",freighter
+Kempegowda International Airport Bengaluru (BLR),Chicago O'Hare International Airport, 98 hours 37 minutes,AIR CANADA,"₹10,011",passenger
+Kempegowda International Airport Bengaluru (BLR),Chicago O'Hare International Airport, 98 hours 37 minutes,LUFTHANSA,"₹11,514",freighter
+Kempegowda International Airport Bengaluru (BLR),Chicago O'Hare International Airport, 98 hours 37 minutes,AIR INDIA,"₹3,606",freighter
+Kempegowda International Airport Bengaluru (BLR),Chicago O'Hare International Airport, 98 hours 37 minutes,EMIRATES,"₹6,511",passenger
+Kempegowda International Airport Bengaluru (BLR),Dallas/Fort Worth International Airport, 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",freighter
+Kempegowda International Airport Bengaluru (BLR),Dallas/Fort Worth International Airport, 98 hours 37 minutes,AIR CANADA,"₹10,011",passenger
+Kempegowda International Airport Bengaluru (BLR),Dallas/Fort Worth International Airport, 98 hours 37 minutes,LUFTHANSA,"₹11,513",passenger
+Kempegowda International Airport Bengaluru (BLR),Dallas/Fort Worth International Airport, 98 hours 37 minutes,AIR INDIA,"₹3,606",passenger
+Kempegowda International Airport Bengaluru (BLR),Dallas/Fort Worth International Airport, 98 hours 37 minutes,EMIRATES,"₹6,511",passenger
+Kempegowda International Airport Bengaluru (BLR),Dallas/Fort Worth International Airport, 98 hours 37 minutes,SINGAPORE AIRLINES,"3,802",passenger
+Kempegowda International Airport Bengaluru (BLR),John F. Kennedy International Airport, 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",freighter
+Kempegowda International Airport Bengaluru (BLR),John F. Kennedy International Airport, 98 hours 37 minutes,AIR CANADA,"₹10,011",passenger
+Kempegowda International Airport Bengaluru (BLR),John F. Kennedy International Airport, 98 hours 37 minutes,LUFTHANSA,"₹11,513",passenger
+Kempegowda International Airport Bengaluru (BLR),John F. Kennedy International Airport, 98 hours 37 minutes,AIR INDIA,"₹3,606",passenger
+Kempegowda International Airport Bengaluru (BLR),John F. Kennedy International Airport, 98 hours 37 minutes,EMIRATES,"₹6,512",passenger
+Kempegowda International Airport Bengaluru (BLR),John F. Kennedy International Airport, 98 hours 37 minutes,SINGAPORE AIRLINES,"3,802",passenger
+Kempegowda International Airport Bengaluru (BLR),Los Angeles International Airport (LAX), 98 hours 37 minutes,QATAR AIRWAYS,"₹12,148",freighter
+Kempegowda International Airport Bengaluru (BLR),Los Angeles International Airport (LAX), 98 hours 37 minutes,AIR CANADA,"₹10,011",passenger
+Kempegowda International Airport Bengaluru (BLR),Los Angeles International Airport (LAX), 98 hours 37 minutes,LUFTHANSA,"₹11,512",passenger
+Kempegowda International Airport Bengaluru (BLR),Los Angeles International Airport (LAX), 98 hours 37 minutes,AIR INDIA,"₹3,604",passenger
+Kempegowda International Airport Bengaluru (BLR),Los Angeles International Airport (LAX), 98 hours 37 minutes,EMIRATES,"₹6,511",passenger
+Kempegowda International Airport Bengaluru (BLR),Los Angeles International Airport (LAX), 98 hours 37 minutes,SINGAPORE AIRLINES,"3,802",passenger
+Cochin International Airport (COK),Los Angeles International Airport (LAX),98 hours 37 minutes,EMIRATES,,passenger
+Cochin International Airport (COK),Los Angeles International Airport (LAX),98 hours 37 minutes,QATAR AIRWAYS,,passenger
+Cochin International Airport (COK),Los Angeles International Airport (LAX),98 hours 37 minutes,AIR INDIA,,passenger
+Cochin International Airport (COK),Chicago O'Hare International Airport (ORD),98 hours 37 minutes,EMIRATES,,passenger
+Cochin International Airport (COK),,98 hours 37 minutes,QATAR AIRWAYS,,passenger
+Cochin International Airport (COK),,98 hours 37 minutes,AIR INDIA,,passenger
